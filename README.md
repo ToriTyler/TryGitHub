@@ -1,4 +1,4 @@
 # TryGitHub
 function testing
 
-这个用来测试upload和push的区别
+What's the difference of upload files and push god dammit
