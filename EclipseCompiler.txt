@@ -1,0 +1,28 @@
+17 十月 2017 14:11:53 GMT: Log 'EclipseCompiler.txt' opened: 17 十月 2017 14:11:53 GMT with name C:\Users\WuNianheng\Desktop\EclipseCompiler.txt
+17 十月 2017 14:18:35 GMT: diagnostics = javax.tools.DiagnosticCollector@29283316
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2933585
+fileObjects = [F:\drjava\drjava-exercise.java, F:\drjava\Hello.java]
+17 十月 2017 14:18:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7f259143' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\drjava;C:\Users\WuNianheng\Desktop\drjava-beta-20160913-225446.exe]
+17 十月 2017 14:18:35 GMT: Compiler call returned
+17 十月 2017 14:18:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@56642cff
+17 十月 2017 14:18:35 GMT:  Kind = ERROR
+17 十月 2017 14:18:35 GMT: Name = F:\drjava\drjava-exercise.java LineNo = 1 ColNo = 14 Msg = 'The public type Hello must be defined in its own file'
+17 十月 2017 14:18:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2a7d27f5
+17 十月 2017 14:18:35 GMT:  Kind = ERROR
+17 十月 2017 14:18:35 GMT: Name = F:\drjava\Hello.java LineNo = 4 ColNo = 14 Msg = 'The type Hello is already defined'
+17 十月 2017 14:18:57 GMT: diagnostics = javax.tools.DiagnosticCollector@668f4e51
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@a2e601d
+fileObjects = [F:\drjava\drjava-exercise.java, F:\drjava\Hello.java]
+17 十月 2017 14:18:57 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@cf36672' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\drjava;C:\Users\WuNianheng\Desktop\drjava-beta-20160913-225446.exe]
+17 十月 2017 14:18:57 GMT: Compiler call returned
+17 十月 2017 14:18:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@150fa706
+17 十月 2017 14:18:57 GMT:  Kind = ERROR
+17 十月 2017 14:18:57 GMT: Name = F:\drjava\drjava-exercise.java LineNo = 1 ColNo = 14 Msg = 'The public type Hello must be defined in its own file'
+17 十月 2017 14:18:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ba4aabb
+17 十月 2017 14:18:57 GMT:  Kind = ERROR
+17 十月 2017 14:18:57 GMT: Name = F:\drjava\Hello.java LineNo = 4 ColNo = 14 Msg = 'The type Hello is already defined'
+17 十月 2017 14:19:07 GMT: diagnostics = javax.tools.DiagnosticCollector@7fabd0eb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4270f463
+fileObjects = [F:\drjava\Hello.java]
+17 十月 2017 14:19:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4b1e5920' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\drjava;C:\Users\WuNianheng\Desktop\drjava-beta-20160913-225446.exe]
+17 十月 2017 14:19:07 GMT: Compiler call returned
